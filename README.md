@@ -36,7 +36,11 @@ En base a la información recopilada y analizando el modelo de negocio de Tambo 
 
 ![Tambo](assets/docs/canvas.png)
 
+
 ## **2. Síntesis y definición **
+
 ## **3. Ideación **
+
 ## **4. Prototipado **
+
 ## **5. User testing **
