@@ -14,11 +14,11 @@ Sus principales competidores son Primax la cual pertenece al grupo Romero y mane
 
 La participación del mercado de las tiendas de conveniencia se distribuye de la siguiente manera:
 
-![Tambo](assets/docs/market-share.jpg)
+![Tambo](assets/docs/market-share.png)
 
 Proyección de ventas y crecimiento para el 2022
 
-![Tambo](assets/docs/proyecciones.jpg)
+![Tambo](assets/docs/proyecciones.png)
 
 El éxito de Tambo radica en su concepto y propuesta de valor hacia los clientes la cual se enfoca en los siguientes puntos:
 
@@ -34,7 +34,7 @@ Tambo viene cambiando el mindset de los peruanos, y es gracias a su apertura que
 
 En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
-![Tambo](assets/docs/canvas.jpg)
+![Tambo](assets/docs/canvas.png)
 
 ## **2. Síntesis y definición **
 ## **3. Ideación **
