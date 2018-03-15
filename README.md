@@ -8,9 +8,10 @@
 
 ![Tambo](assets/docs/tambo-retail.jpg)
 
-Situación actual
-Actualmente, Tambo es la principal tienda de conveniencia a nivel local y forma parte de la empresa Great Retail la cual pertenece al grupo Lindcorp. Cuenta con 200 locales en Lima y espera cerrar el 2018 con 300 tiendas e inaugurar 100 tiendas por año hasta el 2021.
-Sus principales competidores son Primax la cual pertenece al grupo Romero y maneja las tiendas de Listo y Viva y la empresa InRetail que pertenece al grupo Intercorp y maneja las tiendas de Mimarket las cuales serán sacadas del mercado y darán paso a las nuevas tiendas Justo.
+**Situación actual**
+- Actualmente, Tambo es la principal tienda de conveniencia a nivel local y forma parte de la empresa Great Retail la cual pertenece al grupo Lindcorp. Cuenta con 200 locales en Lima y espera cerrar el 2018 con 300 tiendas e inaugurar 100 tiendas por año hasta el 2021.
+
+- Sus principales competidores son Primax la cual pertenece al grupo Romero y maneja las tiendas de Listo y Viva y la empresa InRetail que pertenece al grupo Intercorp y maneja las tiendas de Mimarket las cuales serán sacadas del mercado y darán paso a las nuevas tiendas Justo.
 
 La participación del mercado de las tiendas de conveniencia se distribuye de la siguiente manera:
 
@@ -18,9 +19,9 @@ La participación del mercado de las tiendas de conveniencia se distribuye de la
 
 El éxito de Tambo radica en su concepto y propuesta de valor hacia los clientes la cual se enfoca en los siguientes puntos:
 
-El consumidor no necesita caminar hasta el supermercado para conseguir aquello que te falta, Tambo ofrece el mismo formato, pero más pequeño. No solo es una bodega evolucionada sino un supermercado simplificado. 
+- El consumidor no necesita caminar hasta el supermercado para conseguir aquello que te falta, Tambo ofrece el mismo formato, pero más pequeño. No solo es una bodega evolucionada sino un supermercado simplificado. 
 
-Tambo ofrece gran cantidad y variedad en la comida además de las ofertas. Los tamaños de porciones que se ofrecen no son pequeños sino contundentes, generosos y para el peruano promedio esto obedece a la lógica “Bueno, Bonito y Barato”.
+- Tambo ofrece gran cantidad y variedad en la comida además de las ofertas. Los tamaños de porciones que se ofrecen no son pequeños sino contundentes, generosos y para el peruano promedio esto obedece a la lógica “Bueno, Bonito y Barato”.
 
 Tambo no solo busca posicionarse en el mercado actual, sino que apuesta a la conquista del nuevo segmento juvenil y sus experiencias.
 
@@ -37,8 +38,16 @@ En base a la información recopilada y analizando el modelo de negocio de Tambo 
 
 ## **2. Síntesis y definición **
 
+En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
+
 ## **3. Ideación **
+
+En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
 ## **4. Prototipado **
 
+En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
+
 ## **5. User testing **
+
+En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
