@@ -4,7 +4,7 @@
 
 - Es por ello, que muchas empresas vienen cambiando y modernizando sus procesos de negocios y el proceso de ventas no es ajeno a estos cambios. A través de este reto se busca tomar el proceso tradicional de ventas de Tambo y diseñar una nueva experiencia de ventas orientada a canales digitales.
 
-## **1. Descubrimiento e Investigación**
+## 1. Descubrimiento e Investigación
 
 ![Tambo](assets/docs/tambo-retail.jpg)
 
@@ -36,18 +36,18 @@ En base a la información recopilada y analizando el modelo de negocio de Tambo 
 ![Tambo](assets/docs/canvas.png)
 
 
-## **2. Síntesis y definición **
+## 2. Síntesis y definición 
 
 En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
-## **3. Ideación **
+## 3. Ideación 
 
 En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
-## **4. Prototipado **
+## 4. Prototipado
 
 En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
-## **5. User testing **
+## 5. User testing
 
 En base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
