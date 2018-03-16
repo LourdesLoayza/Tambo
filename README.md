@@ -17,8 +17,6 @@ La participación del mercado de las tiendas de conveniencia se distribuye de la
 
 ![Tambo](assets/docs/market-share.png) 
 
-![Tambo](assets/docs/benchmarketing.png) 
-
 El éxito de Tambo radica en su concepto y propuesta de valor hacia los clientes la cual se enfoca en los siguientes puntos:
 
 - El consumidor no necesita caminar hasta el supermercado para conseguir aquello que te falta, Tambo ofrece el mismo formato, pero más pequeño. No solo es una bodega evolucionada sino un supermercado simplificado. 
@@ -45,6 +43,25 @@ Las preguntas realizadas buscan obtener información de los consumidores habitua
 
 ## 2. Síntesis y definición 
 
+**Definición del problema**
+
+El proceso que se desea mejorar es la experiencia de los usuarios a la hora de hacer las compras para ello se busca digitalizar este proceso que permita mejorar esta experiencia y sirva a la empresa Tambo para optimizar sus procesos logisticos internos y lleve un mayor control de los productos que comercializa. 
+
+**Customer journey map**
+
+Actualmente el customer journey map del proceso de ventas es el siguiente:
+
+![Tambo](assets/docs/journey.png) 
+
+**Benchmarking**
+
+En base al research realizado comparamos las funcionalidades ofrecidas por Tambo vs su competencia directa teniendo los siguientes resultados:
+
+![Tambo](assets/docs/benchmarketing.png) 
+
+**User person**
+
+![Tambo](assets/docs/userperson.png) 
 
 
 ## 3. Ideación 
