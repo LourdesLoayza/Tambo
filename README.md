@@ -17,6 +17,8 @@ La participación del mercado de las tiendas de conveniencia se distribuye de la
 
 ![Tambo](assets/docs/market-share.png) 
 
+![Tambo](assets/docs/benchmarketing.png) 
+
 El éxito de Tambo radica en su concepto y propuesta de valor hacia los clientes la cual se enfoca en los siguientes puntos:
 
 - El consumidor no necesita caminar hasta el supermercado para conseguir aquello que te falta, Tambo ofrece el mismo formato, pero más pequeño. No solo es una bodega evolucionada sino un supermercado simplificado. 
