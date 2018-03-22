@@ -6,30 +6,15 @@
 
 ## 1. Descubrimiento e Investigación
 
-![Tambo](assets/docs/tambo-retail.jpg)
-
-**Research situación actual**
-- Actualmente, Tambo es la principal tienda de conveniencia a nivel local y forma parte de la empresa Great Retail la cual pertenece al grupo Lindcorp. Cuenta con 200 locales en Lima y espera cerrar el 2018 con 300 tiendas e inaugurar 100 tiendas por año hasta el 2021.
-
-- Sus principales competidores son Primax la cual pertenece al grupo Romero y maneja las tiendas de Listo y Viva y la empresa InRetail que pertenece al grupo Intercorp y maneja las tiendas de Mimarket las cuales serán sacadas del mercado y darán paso a las nuevas tiendas Justo.
+![Tambo](assets/docs/texto1.png)
 
 La participación del mercado de las tiendas de conveniencia se distribuye de la siguiente manera:
 
 ![Tambo](assets/docs/market-share.png) 
 
-El éxito de Tambo radica en su concepto y propuesta de valor hacia los clientes la cual se enfoca en los siguientes puntos:
+![Tambo](assets/docs/texto2.png)
 
-- El consumidor no necesita caminar hasta el supermercado para conseguir aquello que te falta, Tambo ofrece el mismo formato, pero más pequeño. No solo es una bodega evolucionada sino un supermercado simplificado. 
-
-- Ofrece gran cantidad y variedad en la comida además de las ofertas. Los tamaños de porciones que se ofrecen no son pequeños sino contundentes, generosos y para el peruano promedio esto obedece a la lógica “Bueno, Bonito y Barato”.
-
-Tambo no solo busca posicionarse en el mercado actual, sino que apuesta a la conquista del nuevo segmento juvenil y sus experiencias.
-
-> *"Nuestra visión apunta a brindar nuevas soluciones a nuevas tendencias de consumo, principalmente para la clase media y para la gente más joven"*.  — Gerente general de Great Retail Luis Seminario
-
-El mindset de los peruanos viene cambiando, y gracias a la apertura de Tambo podemos encontrar diferentes tipos de consumidores, estos han sido identificados por por Consumer Truth a través de un trendhunting, en el que se perfilan los potenciales clientes (“tribus urbanas”) de TAMBO. Estos son algunos de los resultados. 
-
-![Tambo](assets/docs/tambo-tribus.jpg)
+![Tambo](assets/docs/texto3.png)
 
 Es por ello que en base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
@@ -39,7 +24,7 @@ Es por ello que en base a la información recopilada y analizando el modelo de n
 
 Las preguntas realizadas buscan obtener información de los consumidores habituales sobre su experiencia a la hora de hacer las compras en los establecimientos de Tambo.
 
-![Tambo](assets/docs/conclusiones.png)
+![Tambo](assets/docs/texto4.png)
 
 ## 2. Síntesis y definición 
 
@@ -57,11 +42,11 @@ Actualmente el customer journey map del proceso de ventas es el siguiente:
 
 En base al research realizado comparamos las funcionalidades ofrecidas por Tambo vs su competencia directa teniendo los siguientes resultados:
 
-![Tambo](assets/docs/benchmarketing.png) 
+![Tambo](assets/docs/benchmark.png) 
 
 **User person**
 
-![Tambo](assets/docs/userperson.png) 
+![Tambo](assets/docs/user_person.png) 
 
 
 ## 3. Ideación 
@@ -73,5 +58,11 @@ En base al research realizado comparamos las funcionalidades ofrecidas por Tambo
 
 
 ## 5. User testing
+
+El siguiente prototipo digital fue realizado en Axure RP. Para tener una mejor experiencia a la hora de probar la demo tener en cuenta las siguientes consideraciones:
+
+La vista esta desarrollada para ser visualizada en pantallas de 1200px, en caso tu pantalla no cuente con dicha resolución puedes acceder a las vistas rensponsive de Chrome pulsando F12 y seleccionando dicha resolución.
+
+https://acgvp7.axshare.com/home.html
 
 
