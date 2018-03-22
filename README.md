@@ -16,38 +16,19 @@ La participación del mercado de las tiendas de conveniencia se distribuye de la
 
 ![Tambo](assets/docs/texto3.png)
 
+![Tambo](assets/docs/texto4.png)
+
 Es por ello que en base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
 
 ![Tambo](assets/docs/canvas.png)
 
-**Entrevistas**
-
-Las preguntas realizadas buscan obtener información de los consumidores habituales sobre su experiencia a la hora de hacer las compras en los establecimientos de Tambo.
-
-![Tambo](assets/docs/texto4.png)
-
 ## 2. Síntesis y definición 
-
-**Definición del problema**
-
-El proceso que se desea mejorar es la experiencia de los usuarios a la hora de hacer las compras para ello se busca digitalizar este proceso que permita mejorar esta experiencia y sirva a la empresa Tambo para optimizar sus procesos logisticos internos y lleve un mayor control de los productos que comercializa. 
-
-**Customer journey map**
-
-Actualmente el customer journey map del proceso de ventas es el siguiente:
 
 ![Tambo](assets/docs/journey.png) 
 
-**Benchmarking**
-
-En base al research realizado comparamos las funcionalidades ofrecidas por Tambo vs su competencia directa teniendo los siguientes resultados:
-
 ![Tambo](assets/docs/benchmark.png) 
 
-**User person**
-
 ![Tambo](assets/docs/user_person.png) 
-
 
 ## 3. Ideación 
 
