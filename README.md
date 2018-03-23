@@ -13,9 +13,7 @@ La participación del mercado de las tiendas de conveniencia se distribuye de la
 ![Tambo](assets/docs/market-share.png) 
 
 ![Tambo](assets/docs/texto2.png)
-
 ![Tambo](assets/docs/texto3.png)
-
 ![Tambo](assets/docs/texto4.png)
 
 Es por ello que en base a la información recopilada y analizando el modelo de negocio de Tambo podemos deducir lo siguiente
@@ -25,14 +23,12 @@ Es por ello que en base a la información recopilada y analizando el modelo de n
 ## 2. Síntesis y definición 
 
 ![Tambo](assets/docs/journey.png) 
-
 ![Tambo](assets/docs/benchmark.png) 
-
 ![Tambo](assets/docs/user_person.png) 
 
 ## 3. Ideación 
 
-
+![Tambo](assets/docs/user_flow.png) 
 
 ## 4. Prototipado
 
