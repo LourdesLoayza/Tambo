@@ -36,6 +36,8 @@ La vista esta desarrollada para ser visualizada en pantallas de 1200px, en caso 
 
 https://acgvp7.axshare.com/home.html
 
+![Tambo](assets/docs/lista_tareas.png) 
+
 ### Documentación
 
 [Audios Entrevistas](https://drive.google.com/file/d/1AuM5_HU08rsgfjSN9NeMaAVMXCnPQjXS/view?usp=sharing)
