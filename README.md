@@ -35,3 +35,7 @@ El siguiente prototipo digital fue realizado en Axure RP. Para tener una mejor e
 La vista esta desarrollada para ser visualizada en pantallas de 1200px, en caso tu pantalla no cuente con dicha resolución puedes acceder a las vistas rensponsive de Chrome pulsando F12 y seleccionando dicha resolución.
 
 https://acgvp7.axshare.com/home.html
+
+### Documentación
+
+[Audios Entrevistas](https://drive.google.com/file/d/1AuM5_HU08rsgfjSN9NeMaAVMXCnPQjXS/view?usp=sharing)
