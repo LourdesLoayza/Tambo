@@ -1,8 +1,8 @@
 # TAMBO
  
  Canal digital de ventas Tambo
- 
-![image](https://user-images.githubusercontent.com/30554218/41322386-44920544-6e6e-11e8-9840-1c5754b58315.png)
+
+![image](https://user-images.githubusercontent.com/30554218/41322461-ae09c05c-6e6e-11e8-8b81-3c27efdbbae5.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
