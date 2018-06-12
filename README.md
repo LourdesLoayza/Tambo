@@ -1,4 +1,13 @@
-# Proceso de ventas digital: Tambo
+# TAMBO
+ 
+ Canal digital de ventas Tambo
+ 
+![image](https://user-images.githubusercontent.com/30554218/41322386-44920544-6e6e-11e8-9840-1c5754b58315.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
+## Proceso de ventas digital
 
 - En la actualidad, la transformación digital viene brindando a las empresas nuevas herramientas y metodologías que permiten a los negocios ser más eficientes y detectar nuevas oportunidades.
 
